@@ -37,5 +37,3 @@ Use Issues or the contact details on the main page of Ubikron's Github profile.
 Don't miss our updates!   
 [Linkedin](https://www.linkedin.com/company/ubikron/)    
 [YouTube](https://www.youtube.com/@ubikron)  
-
-|
