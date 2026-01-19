@@ -2,7 +2,7 @@
 
 In this repository, you will find a list of OSINT conferences and meetups that have taken place in various countries over the past couple of years.
 
-|            | Name            | Link             | Country     |  Next date /<br> Last date     |  Social Media  | 
+|  Icon         | Name            | Link             | Country     |  Next date /<br> Last date     |  Social Media  | 
 |:------------------:|------------------|-------------------------|-------------|-------------|-------------|
 | ![Osintify](https://osintifycon.com/wp-content/uploads/2025/06/Osintify-V2-Blue.png)  | OSINTifyCon  | https://osintifycon.com/   | Online | 5 Febrary 2026 | [Linkedin](https://www.linkedin.com/company/osintifyconf/) |
 | ![OSINTCon](https://media.licdn.com/dms/image/v2/D4D0BAQE0DRNrTi40LQ/company-logo_200_200/B4DZaWssBFGgAI-/0/1746285019732/osintcon_logo?e=1770249600&v=beta&t=xdC1wFApDfRrbQJGymXlWTOU1JvkhaYbfzOUQz3zT2s)   | OSINTCon  | https://osintconference.com/  | Online  | 1 November 2025 | [Linkedin](https://www.linkedin.com/company/osintcon/) |
