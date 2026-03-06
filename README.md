@@ -4,23 +4,24 @@ In this repository, you will find a list of OSINT conferences and meetups that h
 
 |  Icon         | Name            | Link             | Country     |  Next date /<br> Last date     |  Social Media  | 
 |:------------------:|------------------|-------------------------|-------------|-------------|-------------|
-|![OSINTifyCon](images/OSINTifyCon.png)|OSINTifyCon|Online|[Linkedin](https://www.linkedin.com/company/osintifyconf/)|[Linkedin](https://www.linkedin.com/company/osintifyconf/)|
-|![OSINTCon](images/OSINTCon.jpeg)|OSINTCon|Online|[Linkedin](https://www.linkedin.com/company/osintcon/)|[Linkedin](https://www.linkedin.com/company/osintcon/)|
-|![OSCON](images/OSCON.png)|OSCON|Switzerland|[Linkedin](https://www.linkedin.com/company/osint-switzerland/posts/)|[Linkedin](https://www.linkedin.com/company/osint-switzerland/posts/)|
-|![OsintTomatico](images/OsintTomatico.jpeg)|OsintTomatico|Spain|[Linkedin](https://www.linkedin.com/company/osintomatico/)|[Linkedin](https://www.linkedin.com/company/osintomatico/)|
-|![Global_Investigave_Journalism_Conference](images/Global_Investigave_Journalism_Conference.jpeg)|Global Investigave Journalism Conference|Malaysia|||
-|![SANS_OSINT_SUMMIT](images/SANS_OSINT_SUMMIT.png)|SANS OSINT SUMMIT|USA|[Linkedin](https://www.linkedin.com/company/sans-institute/)|[Linkedin](https://www.linkedin.com/company/sans-institute/)|
-|![OSMOSISCON](images/OSMOSISCON.png)|OSMOSISCON|USA|[Linkedin](https://www.linkedin.com/company/osmosis-association/)|[Linkedin](https://www.linkedin.com/company/osmosis-association/)|
-|![IntelSummit.webp](images/IntelSummit.webp)|IntelSummit|USA|[Linkedin](https://www.linkedin.com/company/intelligence-and-national-security-alliance/)|[Linkedin](https://www.linkedin.com/company/intelligence-and-national-security-alliance/)|
-|![IACP](images/IACP.jpeg)|IACP|USA|[Linkedin]()|[Linkedin]()|
-|![The_GEOINT_Symposium](images/The_GEOINT_Symposium.webp)|The GEOINT Symposium|USA|[Linkedin](https://www.linkedin.com/company/united-states-geospatial-intelligence-foundation-usgif-/)|[Linkedin](https://www.linkedin.com/company/united-states-geospatial-intelligence-foundation-usgif-/)|
-|![Layer8.jpeg](images/Layer8.jpeg)|Layer8|USA|[Twitter](https://x.com/layer8con)|[Twitter](https://x.com/layer8con)|
-|![UK_OSINT_Community_Meetup](images/UK_OSINT_Community_Meetup.png)|UK OSINT Community Meetup|United Kingdom|[Linkedin](https://www.linkedin.com/company/osintuk/posts/)|[Linkedin](https://www.linkedin.com/company/osintuk/posts/)|
-|![OSINTerdam.jpeg](images/OSINTerdam.jpeg)|OSINTerdam|Netherlands|[Linkedin](https://www.linkedin.com/company/osinterdam/) [Twitter](https://x.com/OSINTerdam)|[Linkedin](https://www.linkedin.com/company/osinterdam/) [Twitter](https://x.com/OSINTerdam)|
-|![OSINT_FR_meetup.jpeg](images/OSINT_FR_meetup.jpeg)|OSINT-FR meetup|France|[Linkedin](https://www.linkedin.com/company/osintfr/)|[Linkedin](https://www.linkedin.com/company/osintfr/)|
-|![OSINT_Shadows_Conference.jpeg](images/OSINT_Shadows_Conference.jpeg)|OSINT Shadows Conference|Poland|[Linkedin](https://www.linkedin.com/showcase/cybersecurityprzezcalyrok/)|[Linkedin](https://www.linkedin.com/showcase/cybersecurityprzezcalyrok/)|
-|![Australian_OSINT_Symposium.jpeg](images/Australian_OSINT_Symposium.jpeg)|Australian OSINT Symposium|Australia|[Linkedin](https://www.linkedin.com/company/osintcombine/)|[Linkedin](https://www.linkedin.com/company/osintcombine/)|
-|![Osint_Cachaha.jpeg ](images/Osint_Cachaca.jpeg )|Osint & Cachaça|Brazil|[Linkedin](https://www.linkedin.com/showcase/osintecacha%C3%A7a/about/)|[Linkedin](https://www.linkedin.com/showcase/osintecacha%C3%A7a/about/)|
+|![OSINTifyCon.png](images/OSINTifyCon.png)|OSINTifyCon|https://osintifycon.com/|Online|5 Febrary 2026|[Linkedin](https://www.linkedin.com/company/osintifyconf/)|
+|![OSINTCon.jpeg](images/OSINTCon.jpeg)|OSINTCon|https://osintconference.com/|Online|45962|[Linkedin](https://www.linkedin.com/company/osintcon/)|
+|![OSCON.png](images/OSCON.png)|OSCON|https://osintswitzerland.ch/events/oscon25/|Switzerland|45975|[Linkedin](https://www.linkedin.com/company/osint-switzerland/posts/)|
+|![OsintTomatico.jpeg](images/OsintTomatico.jpeg)|OsintTomatico|https://2025.osintomatico.com/|Spain|46143|[Linkedin](https://www.linkedin.com/company/osintomatico/)|
+|![Global_Investigave_Journalism_Conference.jpeg](images/Global_Investigave_Journalism_Conference.jpeg)|Global Investigave Journalism Conference|https://gijn.org/global-conferences/|Malaysia|45971||
+|![SANS_OSINT_SUMMIT.png](images/SANS_OSINT_SUMMIT.png)|SANS OSINT SUMMIT|https://www.sans.org/cyber-security-training-events/sans-osint-summit-2026|USA|46097|[Linkedin](https://www.linkedin.com/company/sans-institute/)|
+|![OSMOSISCON.png](images/OSMOSISCON.png)|OSMOSISCON|https://osmosisassociation.org/home/osmosiscon-2026/|USA|46173|[Linkedin](https://www.linkedin.com/company/osmosis-association/)|
+|![IntelSummit.webp](images/IntelSummit.webp)|IntelSummit|https://intelsummit.org/|USA|45901|[Linkedin](https://www.linkedin.com/company/intelligence-and-national-security-alliance/)|
+|![IACP.jpeg](images/IACP.jpeg)|IACP|https://www.theiacpconference.org/|USA|46319|[Linkedin]()|
+|![The_GEOINT_Symposium.webp](images/The_GEOINT_Symposium.webp)|The GEOINT Symposium|https://usgif.org/geoint-symposium-2026/|USA|46145|[Linkedin](https://www.linkedin.com/company/united-states-geospatial-intelligence-foundation-usgif-/)|
+|![Layer8.jpeg](images/Layer8.jpeg)|Layer8|https://layer8conference.com/|USA|45813|[Twitter](https://x.com/layer8con)|
+|![UK_OSINT_Community_Meetup.png](images/UK_OSINT_Community_Meetup.png)|UK OSINT Community Meetup|https://www.osint.uk/events|United Kingdom|46085|[Linkedin](https://www.linkedin.com/company/osintuk/posts/)|
+|![OSINTerdam.jpeg](images/OSINTerdam.jpeg)|OSINTerdam||Netherlands|45493|[Linkedin](https://www.linkedin.com/company/osinterdam/) [Twitter](https://x.com/OSINTerdam)|
+|![OSINT_FR_meetup.jpeg](images/OSINT_FR_meetup.jpeg)|OSINT-FR meetup|https://osintfr.com/meetup/|France|Various/Multiple|[Linkedin](https://www.linkedin.com/company/osintfr/)|
+|![OSINT_Shadows_Conference.jpeg](images/OSINT_Shadows_Conference.jpeg)|OSINT Shadows Conference|https://en.osintshadows.pl/|Poland|46107|[Linkedin](https://www.linkedin.com/showcase/cybersecurityprzezcalyrok/)|
+|![Australian_OSINT_Symposium.jpeg](images/Australian_OSINT_Symposium.jpeg)|Australian OSINT Symposium|https://www.osintsymposium.com/|Australia|46266|[Linkedin](https://www.linkedin.com/company/osintcombine/)|
+|![Osint_Cachaca.jpeg ](images/Osint_Cachaca.jpeg )|Osint & Cachaça||Brazil||[Linkedin](https://www.linkedin.com/showcase/osintecacha%C3%A7a/about/)|
+|![GOSINTCon.jpeg](images/GOSINTCon.jpeg)|German OSINT Conference (GOSINTCon)|https://gosintcon.de/|Germany|46188|[Linkedin](https://www.linkedin.com/company/german-osint-conference/people/)|
 
 If you want to add an OSINT conference or meetup, feel free to request that it be added to this repository!
 
