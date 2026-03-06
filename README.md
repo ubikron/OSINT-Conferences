@@ -32,6 +32,11 @@ Use Issues or the contact details on the main page of Ubikron's Github profile.
 [Ubikron Advanced Enrichments](https://github.com/ubikron/Advanced-Enrichments)  
 [Awesome AI OSINT](https://github.com/ubikron/Awesome-AI-OSINT)  
 [Awesome OSINT Chrome Extensions](https://github.com/ubikron/awesome-osint-chrome-extensions)  
+[OSINT People](https://github.com/ubikron/OSINT-People)
+[OSINT Companies](https://github.com/ubikron/OSINT-Companies)
+[OSINT CTFs](https://github.com/ubikron/OSINT-CTFs)
+[OSINT Newsletters](https://github.com/ubikron/OSINT-newsletters)
+[OSINT Books](https://github.com/ubikron/OSINT-Books)
 
 
 -----
