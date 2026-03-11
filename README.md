@@ -10,7 +10,7 @@ In this repository, you will find a list of OSINT conferences and meetups that h
 |![OsintTomatico.jpeg](images/OsintTomatico.jpeg)|OsintTomatico|https://2025.osintomatico.com/|Spain|01 May 2026|[Linkedin](https://www.linkedin.com/company/osintomatico/)|
 |![Global_Investigave_Journalism_Conference.jpeg](images/Global_Investigave_Journalism_Conference.jpeg)|Global Investigave Journalism Conference|https://gijn.org/global-conferences/|Malaysia|10 November 2025||
 |![SANS_OSINT_SUMMIT.png](images/SANS_OSINT_SUMMIT.png)|SANS OSINT SUMMIT|https://www.sans.org/cyber-security-training-events/osint-amsterdam-2026|USA|16 March 2026|[Linkedin](https://www.linkedin.com/company/sans-institute/)|
-|![SANS_OSINT_SUMMIT.png](images/SANS_OSINT_SUMMIT.png)|SANS OSINT SUMMIT EUROPE|https://app.smartsheet.com/b/form/019c704606b17710910afa9a524c7f00?is=29cf722b3b72b464a458e70863d8e576e2684d178bec185eac7be6e5310c92cf|Netherlands|15 June 2026|[Linkedin](https://www.linkedin.com/company/sans-institute/)|
+|![SANS_OSINT_SUMMIT.png](images/SANS_OSINT_SUMMIT.png)|SANS OSINT SUMMIT EUROPE|https://www.sans.org/cyber-security-training-events/osint-amsterdam-2026|Netherlands|15 June 2026|[Linkedin](https://www.linkedin.com/company/sans-institute/)|
 |![OSMOSISCON.png](images/OSMOSISCON.png)|OSMOSISCON|https://osmosisassociation.org/home/osmosiscon-2026/|USA|31 May 2026|[Linkedin](https://www.linkedin.com/company/osmosis-association/)|
 |![IntelSummit.webp](images/IntelSummit.webp)|IntelSummit|https://intelsummit.org/|USA|01 September 2025|[Linkedin](https://www.linkedin.com/company/intelligence-and-national-security-alliance/)|
 |![IACP.jpeg](images/IACP.jpeg)|IACP|https://www.theiacpconference.org/|USA|24 October 2026|[Linkedin]()|
