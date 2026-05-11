@@ -24,6 +24,7 @@ In this repository, you will find a list of OSINT conferences and meetups that h
 |![Australian_OSINT_Symposium](images/Australian_OSINT_Symposium.jpeg)|Australian OSINT Symposium|https://www.osintsymposium.com/|Australia|01 September 2026|[Linkedin](https://www.linkedin.com/company/osintcombine/)|
 |![Osint_Cachaca](images/Osint_Cachaca.jpeg )|Osint & Cachaça||Brazil|30 December 1899|[Linkedin](https://www.linkedin.com/showcase/osintecacha%C3%A7a/about/)|
 |![GOSINTCon](images/GOSINTCon.jpeg)|German OSINT Conference (GOSINTCon)|https://gosintcon.de/|Germany|15 June 2026|[Linkedin](https://www.linkedin.com/company/german-osint-conference/people/)|
+|![OSINTJP](images/OSINTJP.jpeg)|Japan OSINT Conference  |https://osint.jp/2026 |Japan|17 Octoner 2026|[Twitter](https://x.com/osintjapan)|
 
 If you want to add an OSINT conference or meetup, feel free to request that it be added to this repository!
 
